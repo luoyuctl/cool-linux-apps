@@ -91,6 +91,7 @@ A curated list of awesome terminal applications for Linux — tools that make th
 | [gh](https://cli.github.com/) | GitHub's official CLI | [See install guide](https://cli.github.com/) |
 | [jq](https://jqlang.github.io/jq/) | Lightweight command-line JSON processor | `sudo apt install jq` |
 | [hyperfine](https://github.com/sharkdp/hyperfine) | A command-line benchmarking tool | `cargo install hyperfine` |
+| [agenttrace](https://github.com/luoyuctl/agenttrace) | Terminal dashboard for AI coding agent session cost, tokens, time, and slow-run diagnostics | `go install github.com/luoyuctl/agenttrace/cmd/agenttrace@latest` |
 
 ---
 
